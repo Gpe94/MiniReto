@@ -36,6 +36,7 @@
 		BEA37B271C6725DD00ED88A8 /* Mini-RetoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mini-RetoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEA37B2C1C6725DD00ED88A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEA37B2D1C6725DD00ED88A8 /* Mini_RetoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini_RetoTests.swift; sourceTree = "<group>"; };
+		BEA37B371C6726A600ED88A8 /* Mini reto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Mini reto.playground"; path = "../Mini reto.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		BEA37B091C6725DD00ED88A8 = {
 			isa = PBXGroup;
 			children = (
+				BEA37B371C6726A600ED88A8 /* Mini reto.playground */,
 				BEA37B141C6725DD00ED88A8 /* Mini-Reto */,
 				BEA37B2A1C6725DD00ED88A8 /* Mini-RetoTests */,
 				BEA37B131C6725DD00ED88A8 /* Products */,
@@ -409,6 +411,7 @@
 				BEA37B331C6725DD00ED88A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BEA37B341C6725DE00ED88A8 /* Build configuration list for PBXNativeTarget "Mini-RetoTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +420,7 @@
 				BEA37B361C6725DE00ED88A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
