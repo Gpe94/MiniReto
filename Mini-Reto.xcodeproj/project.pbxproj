@@ -26,14 +26,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BEA37B121C6725DD00ED88A8 /* Mini-Reto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mini-Reto.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEA37B121C6725DD00ED88A8 /* Mini-Reto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Mini-Reto.app"; path = "/Users/zilva/Desktop/Programas/Mini-Reto/build/Debug-iphoneos/Mini-Reto.app"; sourceTree = "<absolute>"; };
 		BEA37B161C6725DD00ED88A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEA37B171C6725DD00ED88A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BEA37B191C6725DD00ED88A8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BEA37B1C1C6725DD00ED88A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BEA37B1E1C6725DD00ED88A8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		BEA37B211C6725DD00ED88A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		BEA37B271C6725DD00ED88A8 /* Mini-RetoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mini-RetoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEA37B271C6725DD00ED88A8 /* Mini-RetoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Mini-RetoTests.xctest"; path = "/Users/zilva/Desktop/Programas/Mini-Reto/build/Debug-iphoneos/Mini-RetoTests.xctest"; sourceTree = "<absolute>"; };
 		BEA37B2C1C6725DD00ED88A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEA37B2D1C6725DD00ED88A8 /* Mini_RetoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini_RetoTests.swift; sourceTree = "<group>"; };
 		BEA37B371C6726A600ED88A8 /* Mini reto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Mini reto.playground"; path = "../Mini reto.playground"; sourceTree = "<group>"; };
@@ -63,17 +63,7 @@
 				BEA37B371C6726A600ED88A8 /* Mini reto.playground */,
 				BEA37B141C6725DD00ED88A8 /* Mini-Reto */,
 				BEA37B2A1C6725DD00ED88A8 /* Mini-RetoTests */,
-				BEA37B131C6725DD00ED88A8 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		BEA37B131C6725DD00ED88A8 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				BEA37B121C6725DD00ED88A8 /* Mini-Reto.app */,
-				BEA37B271C6725DD00ED88A8 /* Mini-RetoTests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		BEA37B141C6725DD00ED88A8 /* Mini-Reto */ = {
@@ -179,7 +169,7 @@
 				Base,
 			);
 			mainGroup = BEA37B091C6725DD00ED88A8;
-			productRefGroup = BEA37B131C6725DD00ED88A8 /* Products */;
+			productRefGroup = BEA37B091C6725DD00ED88A8;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
